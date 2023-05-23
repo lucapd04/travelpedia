@@ -1,0 +1,561 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.13.0" title="Shotcut version 22.12.21" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:00:06.960">
+    <property name="length">00:00:07.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2022-11-15T20:41:54</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">eeb18b5df0bc070bd9c40de8ad655971</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rio.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T20:42:09</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8a8f30e73ef16c5eac5c2bfbf65621f2</property>
+    <property name="shotcut:caption">rio.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bangkok.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T20:43:43</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">829b758e7fd2448f074f40665d67f5e7</property>
+    <property name="shotcut:caption">bangkok.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">sydney.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T20:44:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ab79748aadf43d645fad32a57f8c8c2a</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">travel.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T20:55:12</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9948d486d8785d80b665a62153a1b440</property>
+  </producer>
+  <chain id="chain1" out="00:02:28.960">
+    <property name="length">00:02:29.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">OneRepublic_I_Aint_Worried_(thinkNews.com.ng).mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-03-27T21:24:20</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">893259b2ba0f3bda8b1f5044bd04cd3b</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">OneRepublic_I_Aint_Worried_(thinkNews.com.ng).mp3</property>
+  </chain>
+  <producer id="producer4" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">matira-beach-bora-bora.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T21:34:37</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0d32bcbb50ea26bb068177c53436acc5</property>
+    <property name="shotcut:caption">matira-beach-bora-bora.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 22.12.21">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:06.960"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:02:28.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:26.600">
+    <property name="length">00:00:26.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:26.600"/>
+  </playlist>
+  <chain id="chain2" out="00:00:06.960">
+    <property name="length">00:00:07.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2022-11-15T20:41:54</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">eeb18b5df0bc070bd9c40de8ad655971</property>
+    <property name="shotcut:caption">intro.mp4</property>
+    <filter id="filter0" out="00:00:06.960">
+      <property name="argument">Travelpedia</property>
+      <property name="geometry">105 125 1724 948 1</property>
+      <property name="family">Harlow Solid Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffff00</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa55007f</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">30</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </chain>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">rio.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T20:42:09</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8a8f30e73ef16c5eac5c2bfbf65621f2</property>
+    <property name="shotcut:caption">rio.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter1" out="00:00:04.720">
+      <property name="argument">South America</property>
+      <property name="geometry">181 -497 1547 812 1</property>
+      <property name="family">Harlow Solid Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffff00</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa55007f</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">30</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor0" in="00:00:00.000" out="00:00:00.720">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="chain2" in="00:00:06.240" out="00:00:06.960"/>
+    <track producer="producer5" in="00:00:00.000" out="00:00:00.720"/>
+    <transition id="transition0" out="00:00:00.720">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma22.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.720">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">bangkok.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T20:43:43</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">829b758e7fd2448f074f40665d67f5e7</property>
+    <property name="shotcut:caption">bangkok.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter2" in="00:00:00.040" out="00:00:03.960">
+      <property name="argument">Asia</property>
+      <property name="geometry">414 100 909 443 1</property>
+      <property name="family">Harlow Solid Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffff00</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa55007f</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">30</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor1" in="00:00:00.000" out="00:00:00.680">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer5" in="00:00:03.280" out="00:00:03.960"/>
+    <track producer="producer6" in="00:00:00.040" out="00:00:00.720"/>
+    <transition id="transition2" out="00:00:00.680">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma04.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.680">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">sydney.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T20:44:49</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ab79748aadf43d645fad32a57f8c8c2a</property>
+    <property name="shotcut:caption">sydney.jpg</property>
+    <filter id="filter3" out="00:00:03.680">
+      <property name="argument">Oceania</property>
+      <property name="geometry">351 -213 1168 657 1</property>
+      <property name="family">Harlow Solid Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffff00</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa55007f</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">30</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor2" in="00:00:00.000" out="00:00:00.560">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer6" in="00:00:03.400" out="00:00:03.960"/>
+    <track producer="producer7" in="00:00:00.000" out="00:00:00.560"/>
+    <transition id="transition4" out="00:00:00.560">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma03.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition5" out="00:00:00.560">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">matira-beach-bora-bora.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T21:34:37</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0d32bcbb50ea26bb068177c53436acc5</property>
+    <property name="shotcut:caption">matira-beach-bora-bora.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter4" out="00:00:04.480">
+      <property name="argument">And much more!</property>
+      <property name="geometry">333 24 1259 231 1</property>
+      <property name="family">Harlow Solid Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffff00</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa55007f</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">30</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor3" in="00:00:00.000" out="00:00:00.760">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer7" in="00:00:02.920" out="00:00:03.680"/>
+    <track producer="producer8" in="00:00:00.000" out="00:00:00.760"/>
+    <transition id="transition6" out="00:00:00.760">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma07.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition7" out="00:00:00.760">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">travel.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-03-27T20:55:12</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9948d486d8785d80b665a62153a1b440</property>
+    <property name="shotcut:caption">travel.jpg</property>
+    <filter id="filter5" in="00:00:04.720" out="00:00:09.520">
+      <property name="start">1</property>
+      <property name="level">00:00:03.840=1;00:00:04.800=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+    <filter id="filter6" in="00:00:04.720" out="00:00:09.520">
+      <property name="argument">Come visit our website!</property>
+      <property name="geometry">165 425 1588 275 1</property>
+      <property name="family">Harlow Solid Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffff00</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa55007f</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">30</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter7" in="00:00:04.720" out="00:00:09.520">
+      <property name="argument">lduarte</property>
+      <property name="geometry">1188 -8 666 196 1</property>
+      <property name="family">Harlow Solid Italic</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">italic</property>
+      <property name="fgcolour">#ffff00</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa55007f</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">30</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <tractor id="tractor4" in="00:00:00.000" out="00:00:00.960">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer8" in="00:00:03.000" out="00:00:03.960"/>
+    <track producer="producer9" in="00:00:04.720" out="00:00:05.680"/>
+    <transition id="transition8" out="00:00:00.960">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="resource">%luma08.pgm</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="progressive">1</property>
+      <property name="invert">0</property>
+      <property name="softness">0.2</property>
+    </transition>
+    <transition id="transition9" out="00:00:00.960">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:06.200"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.720"/>
+    <entry producer="producer5" in="00:00:00.760" out="00:00:04.000"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.680"/>
+    <entry producer="producer6" in="00:00:00.760" out="00:00:03.360"/>
+    <entry producer="tractor2" in="00:00:00.000" out="00:00:00.560"/>
+    <entry producer="producer7" in="00:00:00.600" out="00:00:02.880"/>
+    <entry producer="tractor3" in="00:00:00.000" out="00:00:00.760"/>
+    <entry producer="producer8" in="00:00:00.800" out="00:00:03.480"/>
+    <entry producer="tractor4" in="00:00:00.000" out="00:00:00.960"/>
+    <entry producer="producer9" in="00:00:05.720" out="00:00:09.520"/>
+  </playlist>
+  <chain id="chain3" out="00:02:28.960">
+    <property name="length">00:02:29.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">OneRepublic_I_Aint_Worried_(thinkNews.com.ng).mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-03-27T21:24:20</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">893259b2ba0f3bda8b1f5044bd04cd3b</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">OneRepublic_I_Aint_Worried_(thinkNews.com.ng).mp3</property>
+    <filter id="filter8" out="00:00:26.600">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:25.640=0;00:00:26.600=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:26.600"/>
+  </playlist>
+  <tractor id="tractor5" title="Shotcut version 22.12.21" in="00:00:00.000" out="00:00:26.600">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">1.341</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition10">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition11">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition12">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
